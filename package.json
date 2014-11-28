@@ -1,0 +1,27 @@
+{
+  "name": "twelve-icons",
+  "version": "0.7.0",
+  "description": "It's the iconset for imtwelve.com",
+  "author": "Luke Clark & Generous Icon Contributors",
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-cache": "*",
+    "gulp-changed": "*",
+    "gulp-concat": "^2.4.1",
+    "gulp-consolidate": "^0.1.2",
+    "gulp-debug": "^1.0.1",
+    "gulp-iconfont": "*",
+    "gulp-ignore": "^1.2.0",
+    "gulp-load-plugins": "*",
+    "gulp-rename": "*",
+    "gulp-rimraf": "*",
+    "gulp-sass": "*",
+    "gulp-size": "*",
+    "gulp-sketch": "*",
+    "gulp-uglify": "*",
+    "lodash": "*",
+    "node-neat": "*",
+    "node-sass": "*",
+    "run-sequence": "*"
+  }
+}
